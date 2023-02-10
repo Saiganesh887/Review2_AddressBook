@@ -1,0 +1,15 @@
+Contacts{
+firstName='banu'
+lastName='priya'
+address='1-98'
+city='hyd'
+state='ts'
+email='bdnu@gmai.com'
+phoneNo='4567894567'}Contacts{
+firstName='vani'
+lastName='satya'
+address='109'
+city='hyd'
+state='ts'
+email='fdgfkj@gamil.com'
+phoneNo='456788765'}
